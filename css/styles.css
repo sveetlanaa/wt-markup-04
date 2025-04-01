@@ -11,8 +11,8 @@
   }
   
   header {
-    background-color: blueviolet;
-    color: white;
+    background-color: rgb(70, 168, 70);
+    color: rgb(203, 227, 152);
     text-align: center;
     padding: 20px;
   }
@@ -24,7 +24,7 @@
   }
   
   .nav-menu a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     padding: 10px;
   }
@@ -42,7 +42,7 @@
   }
   
   .block {
-    background-color: white;
+    background-color: rgb(238, 255, 181);
     padding: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     flex: 1 1 calc(50% - 40px);
@@ -51,7 +51,7 @@
   
   footer {
     background-color: #333;
-    color: white;
+    color: rgb(181, 251, 165);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
